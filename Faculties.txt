@@ -1,0 +1,306 @@
+tma1291
+computational method
+4undergraduate
+tc01
+mon
+fg45
+L2
+tt012
+wed
+dfr5
+L2
+
+
+0Open
+mna1234
+data mining
+4undergraduate
+tc01
+wed
+vg56
+L2
+tt02
+fri
+vgf56
+L2
+
+
+0Open
+<<trimester>>
+<<trimester>>
+TCP1101
+Programing Fandemantals
+4undergraduate
+TC01
+Wed 2pm
+CR2003
+L2
+TT01
+Fri 10:30am
+AR2004
+L2
+S5
+
+1Open
+MPU3028
+Spanish
+3undergraduate
+tc01
+thu
+cq12
+L2
+tt01
+fri 
+cr45
+L2
+
+
+1Open
+<<trimester>>
+TM1111
+Programming Course
+4undergraduate
+TC01
+Mon 4pm
+CR3004
+L2
+TT01
+Fri 2pm
+AR2002
+L2
+S4 S1
+
+1Open
+QS3383
+OOAD
+4undergraduate
+TC01
+Tue 10am
+CR4003
+L2
+TT01
+Thu 3pm
+AR2002
+L2
+S1 S2
+
+1Open
+TS3031
+Calculas
+4undergraduate
+TC01
+Wed 4pm
+CR4001
+L2
+TT01
+Tue 2pm
+AR3003
+L2
+S4 S1
+
+1Open
+TBA2029
+software eng fund
+4undergraduate
+tc02
+tue 2-5
+cb45
+L2
+tt02
+wed 6-8
+cq12
+L2
+S1
+
+1Open
+<<trimester>>
+rt454
+maths 1
+4undergraduate
+tc01
+mon
+gf455
+L7
+tt01
+wed
+tr45
+L7
+S10
+
+1Open
+dff43
+field thoery
+4undergraduate
+tc01
+fri
+rr44
+L7
+tt01
+wed
+rr33
+L7
+
+
+0Open
+<<trimester>>
+tnfk453
+maths 3
+4undergraduate
+tc01
+wed
+ddf43
+L7
+tt01
+fri
+dfsd333
+L7
+
+
+1Open
+mpu234
+bahasa melayu
+3undergraduate
+tc01
+mon
+ed43
+L7
+tt01
+wed
+e34e
+L7
+S10
+
+1Open
+<<trimester>>
+er43
+feild thoery 3
+4undergraduate
+tc02
+sat
+fd4
+L7
+tt02
+fri
+dfre4
+L7
+
+
+1Open
+<<trimester>>
+TD3422
+workplace com
+4undergraduate
+tc01
+fri
+dfe33
+L7
+tt03
+fri
+ee33
+L7
+S10
+
+1Open
+<<trimester>>
+thj123
+business sytem
+4undergraduate
+tc01
+mn
+fg45
+L1
+tt01
+wed
+gh55
+L1
+S7
+
+1Open
+<<trimester>>
+hd54
+management
+4undergraduate
+tc01
+fri
+rt4
+L1
+tt01
+wed
+fe3
+L1
+
+
+1Open
+<<trimester>>
+hg44
+calculation
+4undergraduate
+tc01
+sun
+r4
+L1
+
+fri
+f4
+L1
+
+
+1Open
+<<trimester>>
+TMA8102
+Computer Networks
+4undergraduate
+TC01
+Wed 4pm
+TT01
+L1
+Tue
+Tue 2pm
+AR1003
+L1
+
+
+1Open
+TMA8123
+Computer Networks
+4undergraduate
+TC01
+Wed 2pm
+CR3002
+L1
+TT01
+Tue 4pm
+AR3003
+L1
+
+
+0Open
+TCP1111
+introsuction to data science
+4undergraduate
+TC01
+mon 2-4pm
+cr101
+L1
+TT01
+tue 4-6pm
+cq1023
+L1
+S7
+
+1Open
+tma1111
+database  funda
+4undergraduate
+tc01
+mon 2-4
+cq12
+L1
+TT01
+tue 4-6
+cq23
+L1
+S7
+
+1Open
+<<trimester>>

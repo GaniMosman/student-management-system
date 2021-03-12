@@ -1,0 +1,56 @@
+L1
+Khalid
+1q2w3e4r5
+FOM
+Khalid@gmail.com
+0184027870
+123
+database
+L2
+Nour
+1q2w3e4r5
+FCI
+nour@gmail.com
+0184027870
+123
+programming
+L4
+Jack Chan
+1q2w3e4r5t
+FOM
+jack@gmail.com
+01234356576
+BR3002
+Business Managment
+L5
+DR.Amy
+1q2w3e4r5
+FCI
+amy@gmail.com
+09876222121
+br2017
+data scicentist
+L6
+dr.linda
+1q2w3e4r5
+FCI
+linda@gmail.com
+097257211
+br1028
+data management
+L7
+dr.shabul
+1q2w3e4r5
+FOE
+shabul@gmail.com
+353223
+bg56
+math
+L8
+dr.timothy
+1q2w3e4r5
+FOE
+timothy@gmail.com
+3453342323
+we34
+operating system
